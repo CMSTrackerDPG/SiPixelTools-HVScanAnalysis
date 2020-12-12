@@ -1,0 +1,14 @@
+*.o
+
+# Ignore every .root file
+PHM_out/*.root
+*.root
+
+# Ignore every text file except examples
+*.txt
+!Miniscan_example.txt
+!Fullscan_example.txt
+
+# Ignore root macros
+*.C
+*.h
