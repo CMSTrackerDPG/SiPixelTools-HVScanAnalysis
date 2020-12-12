@@ -6,6 +6,9 @@ PHM_out/*.root
 
 # Ignore every text file except examples
 *.txt
+!input/*
+!input/BADROC_EXCL/*
+!input/BADROC_EXCL/INFO/*
 !Miniscan_example.txt
 !Fullscan_example.txt
 
