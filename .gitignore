@@ -11,4 +11,3 @@ PHM_out/*.root
 
 # Ignore root macros
 *.C
-*.h
