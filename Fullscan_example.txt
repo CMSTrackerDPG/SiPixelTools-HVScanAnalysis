@@ -1,0 +1,243 @@
+reference point:
+timestamp(UTC):2018-04-18 20:36:11 fill:6574 run:314649 lumisection:55 orbit:14170069 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 20:40:03 fill:6574 run:314649 lumisection:65 orbit:16788682 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+L1 scan
+timestamp(UTC):2018-04-18 20:59:21 fill:6574 run:314650 lumisection:25 orbit:6420813 -- L1:40 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:03:03 fill:6574 run:314650 lumisection:35 orbit:8920028 -- L1:40 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:03:17 fill:6574 run:314650 lumisection:35 orbit:9079479 -- L1:80 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:06:58 fill:6574 run:314650 lumisection:45 orbit:11564280 -- L1:80 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:07:12 fill:6574 run:314650 lumisection:45 orbit:11697253 -- L1:120 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:10:50 fill:6574 run:314650 lumisection:55 orbit:14173543 -- L1:120 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:11:02 fill:6574 run:314650 lumisection:55 orbit:14305228 -- L1:160 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:14:44 fill:6574 run:314650 lumisection:65 orbit:16805427 -- L1:160 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:14:56 fill:6574 run:314650 lumisection:65 orbit:16938685 -- L1:200 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:18:37 fill:6574 run:314650 lumisection:75 orbit:19429425 -- L1:200 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:18:52 fill:6574 run:314650 lumisection:75 orbit:19592404 -- L1:240 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:22:29 fill:6574 run:314650 lumisection:85 orbit:22037920 -- L1:240 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:22:47 fill:6574 run:314650 lumisection:85 orbit:22230759 -- L1:280 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:26:22 fill:6574 run:314650 lumisection:95 orbit:24653670 -- L1:280 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:26:39 fill:6574 run:314650 lumisection:95 orbit:24845652 -- L1:320 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:30:16 fill:6574 run:314650 lumisection:105 orbit:27291213 -- L1:320 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:30:31 fill:6574 run:314650 lumisection:105 orbit:27425927 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:34:08 fill:6574 run:314650 lumisection:115 orbit:29896275 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:34:25 fill:6574 run:314650 lumisection:115 orbit:30083588 -- L1:400 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:46:12 fill:6574 run:314650 lumisection:146 orbit:38039473 -- L1:400 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:46:17 fill:6574 run:314650 lumisection:146 orbit:38093140 -- L1:450 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:50:05 fill:6574 run:314650 lumisection:156 orbit:40650759 -- L1:450 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:50:09 fill:6574 run:314650 lumisection:156 orbit:40704334 -- L1:500 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:53:57 fill:6574 run:314650 lumisection:166 orbit:43263306 -- L1:500 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:54:02 fill:6574 run:314650 lumisection:166 orbit:43317589 -- L1:550 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 21:57:51 fill:6574 run:314650 lumisection:176 orbit:45901087 -- L1:550 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 21:57:56 fill:6574 run:314650 lumisection:176 orbit:45954366 -- L1:600 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 22:01:45 fill:6574 run:314650 lumisection:186 orbit:48526405 -- L1:600 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+
+L2/D3 scan
+timestamp(UTC):2018-04-18 22:02:45 fill:6574 run:314650 lumisection:188 orbit:49203187 -- L1:350 L2:10 L3:200 L4:200 D1:300 D2:300 D3:10 -- start
+timestamp(UTC):2018-04-18 22:06:26 fill:6574 run:314650 lumisection:198 orbit:51690032 -- L1:350 L2:10 L3:200 L4:200 D1:300 D2:300 D3:10 -- stop
+timestamp(UTC):2018-04-18 22:06:41 fill:6574 run:314650 lumisection:198 orbit:51856967 -- L1:350 L2:20 L3:200 L4:200 D1:300 D2:300 D3:20 -- start
+timestamp(UTC):2018-04-18 22:10:17 fill:6574 run:314650 lumisection:208 orbit:54283208 -- L1:350 L2:20 L3:200 L4:200 D1:300 D2:300 D3:20 -- stop
+timestamp(UTC):2018-04-18 22:10:31 fill:6574 run:314650 lumisection:208 orbit:54445915 -- L1:350 L2:30 L3:200 L4:200 D1:300 D2:300 D3:30 -- start
+timestamp(UTC):2018-04-18 22:14:09 fill:6574 run:314650 lumisection:218 orbit:56892967 -- L1:350 L2:30 L3:200 L4:200 D1:300 D2:300 D3:30 -- stop
+timestamp(UTC):2018-04-18 22:14:23 fill:6574 run:314650 lumisection:218 orbit:57051839 -- L1:350 L2:40 L3:200 L4:200 D1:300 D2:300 D3:40 -- start
+timestamp(UTC):2018-04-18 22:18:04 fill:6574 run:314650 lumisection:228 orbit:59538529 -- L1:350 L2:40 L3:200 L4:200 D1:300 D2:300 D3:40 -- stop
+timestamp(UTC):2018-04-18 22:18:18 fill:6574 run:314650 lumisection:228 orbit:59697915 -- L1:350 L2:50 L3:200 L4:200 D1:300 D2:300 D3:50 -- start
+timestamp(UTC):2018-04-18 22:21:55 fill:6574 run:314650 lumisection:238 orbit:62135204 -- L1:350 L2:50 L3:200 L4:200 D1:300 D2:300 D3:50 -- stop
+timestamp(UTC):2018-04-18 22:22:09 fill:6574 run:314650 lumisection:238 orbit:62297225 -- L1:350 L2:60 L3:200 L4:200 D1:300 D2:300 D3:60 -- start
+timestamp(UTC):2018-04-18 22:25:50 fill:6574 run:314650 lumisection:248 orbit:64782381 -- L1:350 L2:60 L3:200 L4:200 D1:300 D2:300 D3:60 -- stop
+timestamp(UTC):2018-04-18 22:26:04 fill:6574 run:314650 lumisection:248 orbit:64943299 -- L1:350 L2:70 L3:200 L4:200 D1:300 D2:300 D3:70 -- start
+timestamp(UTC):2018-04-18 22:29:41 fill:6574 run:314650 lumisection:258 orbit:67376977 -- L1:350 L2:70 L3:200 L4:200 D1:300 D2:300 D3:70 -- stop
+timestamp(UTC):2018-04-18 22:29:55 fill:6574 run:314650 lumisection:258 orbit:67538741 -- L1:350 L2:80 L3:200 L4:200 D1:300 D2:300 D3:80 -- start
+timestamp(UTC):2018-04-18 22:33:34 fill:6574 run:314650 lumisection:268 orbit:69999871 -- L1:350 L2:80 L3:200 L4:200 D1:300 D2:300 D3:80 -- stop
+timestamp(UTC):2018-04-18 22:33:47 fill:6574 run:314650 lumisection:268 orbit:70139184 -- L1:350 L2:90 L3:200 L4:200 D1:300 D2:300 D3:90 -- start
+timestamp(UTC):2018-04-18 22:37:29 fill:6574 run:314650 lumisection:278 orbit:72643799 -- L1:350 L2:90 L3:200 L4:200 D1:300 D2:300 D3:90 -- stop
+timestamp(UTC):2018-04-18 22:37:46 fill:6574 run:314650 lumisection:278 orbit:72835854 -- L1:350 L2:100 L3:200 L4:200 D1:300 D2:300 D3:100 -- start
+timestamp(UTC):2018-04-18 22:41:22 fill:6574 run:314650 lumisection:288 orbit:75255306 -- L1:350 L2:100 L3:200 L4:200 D1:300 D2:300 D3:100 -- stop
+timestamp(UTC):2018-04-18 22:41:39 fill:6574 run:314650 lumisection:288 orbit:75446590 -- L1:350 L2:150 L3:200 L4:200 D1:300 D2:300 D3:150 -- start
+timestamp(UTC):2018-04-18 22:45:15 fill:6574 run:314650 lumisection:298 orbit:77886498 -- L1:350 L2:150 L3:200 L4:200 D1:300 D2:300 D3:150 -- stop
+timestamp(UTC):2018-04-18 22:45:35 fill:6574 run:314650 lumisection:298 orbit:78101351 -- L1:350 L2:200 L3:200 L4:200 D1:300 D2:300 D3:200 -- start
+timestamp(UTC):2018-04-18 22:49:32 fill:6574 run:314650 lumisection:309 orbit:80773664 -- L1:350 L2:200 L3:200 L4:200 D1:300 D2:300 D3:200 -- stop
+timestamp(UTC):2018-04-18 22:49:47 fill:6574 run:314650 lumisection:309 orbit:80938519 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:250 -- start
+timestamp(UTC):2018-04-18 22:53:25 fill:6574 run:314650 lumisection:319 orbit:83389351 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:250 -- stop
+timestamp(UTC):2018-04-18 22:53:42 fill:6574 run:314650 lumisection:319 orbit:83580458 -- L1:350 L2:300 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 22:57:18 fill:6574 run:314650 lumisection:329 orbit:86015149 -- L1:350 L2:300 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 22:57:40 fill:6574 run:314650 lumisection:330 orbit:86258748 -- L1:350 L2:400 L3:200 L4:200 D1:300 D2:300 D3:400 -- start
+timestamp(UTC):2018-04-18 23:01:34 fill:6574 run:314650 lumisection:340 orbit:88893999 -- L1:350 L2:400 L3:200 L4:200 D1:300 D2:300 D3:400 -- stop
+
+L3/D2 scan
+timestamp(UTC):2018-04-18 23:02:45 fill:6574 run:314650 lumisection:343 orbit:89689664 -- L1:350 L2:250 L3:10 L4:200 D1:300 D2:10 D3:300 -- start
+timestamp(UTC):2018-04-18 23:06:38 fill:6574 run:314650 lumisection:353 orbit:92311119 -- L1:350 L2:250 L3:10 L4:200 D1:300 D2:10 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:06:52 fill:6574 run:314650 lumisection:353 orbit:92472812 -- L1:350 L2:250 L3:20 L4:200 D1:300 D2:20 D3:300 -- start
+timestamp(UTC):2018-04-18 23:10:31 fill:6574 run:314650 lumisection:363 orbit:94927270 -- L1:350 L2:250 L3:20 L4:200 D1:300 D2:20 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:10:48 fill:6574 run:314650 lumisection:363 orbit:95120809 -- L1:350 L2:250 L3:30 L4:200 D1:300 D2:30 D3:300 -- start
+timestamp(UTC):2018-04-18 23:14:23 fill:6574 run:314650 lumisection:373 orbit:97536875 -- L1:350 L2:250 L3:30 L4:200 D1:300 D2:30 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:14:38 fill:6574 run:314650 lumisection:373 orbit:97703946 -- L1:350 L2:250 L3:40 L4:200 D1:300 D2:40 D3:300 -- start
+timestamp(UTC):2018-04-18 23:18:17 fill:6574 run:314650 lumisection:383 orbit:100168652 -- L1:350 L2:250 L3:40 L4:200 D1:300 D2:40 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:18:32 fill:6574 run:314650 lumisection:383 orbit:100334028 -- L1:350 L2:250 L3:50 L4:200 D1:300 D2:50 D3:300 -- start
+timestamp(UTC):2018-04-18 23:22:10 fill:6574 run:314650 lumisection:393 orbit:102783139 -- L1:350 L2:250 L3:50 L4:200 D1:300 D2:50 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:22:26 fill:6574 run:314650 lumisection:393 orbit:102972115 -- L1:350 L2:250 L3:60 L4:200 D1:300 D2:60 D3:300 -- start
+timestamp(UTC):2018-04-18 23:26:03 fill:6574 run:314650 lumisection:403 orbit:105406833 -- L1:350 L2:250 L3:60 L4:200 D1:300 D2:60 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:26:19 fill:6574 run:314650 lumisection:403 orbit:105594033 -- L1:350 L2:250 L3:70 L4:200 D1:300 D2:70 D3:300 -- start
+timestamp(UTC):2018-04-18 23:29:59 fill:6574 run:314650 lumisection:413 orbit:108059073 -- L1:350 L2:250 L3:70 L4:200 D1:300 D2:70 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:30:15 fill:6574 run:314650 lumisection:413 orbit:108246648 -- L1:350 L2:250 L3:80 L4:200 D1:300 D2:80 D3:300 -- start
+timestamp(UTC):2018-04-18 23:34:12 fill:6574 run:314650 lumisection:424 orbit:110908752 -- L1:350 L2:250 L3:80 L4:200 D1:300 D2:80 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:34:29 fill:6574 run:314650 lumisection:424 orbit:111095814 -- L1:350 L2:250 L3:90 L4:200 D1:300 D2:90 D3:300 -- start
+timestamp(UTC):2018-04-18 23:38:04 fill:6574 run:314650 lumisection:434 orbit:113516127 -- L1:350 L2:250 L3:90 L4:200 D1:300 D2:90 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:38:21 fill:6574 run:314650 lumisection:434 orbit:113704728 -- L1:350 L2:250 L3:100 L4:200 D1:300 D2:100 D3:300 -- start
+timestamp(UTC):2018-04-18 23:41:59 fill:6574 run:314650 lumisection:444 orbit:116158230 -- L1:350 L2:250 L3:100 L4:200 D1:300 D2:100 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:42:16 fill:6574 run:314650 lumisection:444 orbit:116345830 -- L1:350 L2:250 L3:150 L4:200 D1:300 D2:150 D3:300 -- start
+timestamp(UTC):2018-04-18 23:45:52 fill:6574 run:314650 lumisection:454 orbit:118778641 -- L1:350 L2:250 L3:150 L4:200 D1:300 D2:150 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:46:11 fill:6574 run:314650 lumisection:454 orbit:118991865 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:200 D3:300 -- start
+timestamp(UTC):2018-04-18 23:49:45 fill:6574 run:314650 lumisection:464 orbit:121399693 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:200 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:49:55 fill:6574 run:314650 lumisection:464 orbit:121481216 -- L1:350 L2:250 L3:250 L4:200 D1:300 D2:250 D3:300 -- start
+timestamp(UTC):2018-04-18 23:53:38 fill:6574 run:314650 lumisection:474 orbit:124017418 -- L1:350 L2:250 L3:250 L4:200 D1:300 D2:250 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:53:57 fill:6574 run:314650 lumisection:474 orbit:124231352 -- L1:350 L2:250 L3:300 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-18 23:57:29 fill:6574 run:314650 lumisection:484 orbit:126620937 -- L1:350 L2:250 L3:300 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-18 23:57:49 fill:6574 run:314650 lumisection:484 orbit:126840130 -- L1:350 L2:250 L3:400 L4:200 D1:300 D2:400 D3:300 -- start
+timestamp(UTC):2018-04-19 00:01:23 fill:6574 run:314650 lumisection:494 orbit:129247729 -- L1:350 L2:250 L3:400 L4:200 D1:300 D2:400 D3:300 -- stop
+
+L4/D1 scan
+timestamp(UTC):2018-04-19 00:03:03 fill:6574 run:314650 lumisection:498 orbit:130381323 -- L1:350 L2:250 L3:200 L4:5 D1:10 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:06:51 fill:6574 run:314650 lumisection:508 orbit:132934980 -- L1:350 L2:250 L3:200 L4:5 D1:10 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:07:03 fill:6574 run:314650 lumisection:508 orbit:133068722 -- L1:350 L2:250 L3:200 L4:10 D1:20 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:10:42 fill:6574 run:314650 lumisection:518 orbit:135540254 -- L1:350 L2:250 L3:200 L4:10 D1:20 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:10:54 fill:6574 run:314650 lumisection:518 orbit:135674536 -- L1:350 L2:250 L3:200 L4:15 D1:30 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:14:37 fill:6574 run:314650 lumisection:528 orbit:138174246 -- L1:350 L2:250 L3:200 L4:15 D1:30 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:14:49 fill:6574 run:314650 lumisection:528 orbit:138309330 -- L1:350 L2:250 L3:200 L4:20 D1:40 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:18:30 fill:6574 run:314650 lumisection:538 orbit:140800465 -- L1:350 L2:250 L3:200 L4:20 D1:40 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:18:45 fill:6574 run:314650 lumisection:538 orbit:140971902 -- L1:350 L2:250 L3:200 L4:25 D1:50 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:22:24 fill:6574 run:314650 lumisection:548 orbit:143422950 -- L1:350 L2:250 L3:200 L4:25 D1:50 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:22:38 fill:6574 run:314650 lumisection:548 orbit:143593020 -- L1:350 L2:250 L3:200 L4:30 D1:60 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:26:15 fill:6574 run:314650 lumisection:558 orbit:146031871 -- L1:350 L2:250 L3:200 L4:30 D1:60 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:26:28 fill:6574 run:314650 lumisection:558 orbit:146174267 -- L1:350 L2:250 L3:200 L4:40 D1:70 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:30:08 fill:6574 run:314650 lumisection:568 orbit:148653151 -- L1:350 L2:250 L3:200 L4:40 D1:70 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:30:25 fill:6574 run:314650 lumisection:568 orbit:148840032 -- L1:350 L2:250 L3:200 L4:50 D1:80 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:34:02 fill:6574 run:314650 lumisection:578 orbit:151285917 -- L1:350 L2:250 L3:200 L4:50 D1:80 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:34:17 fill:6574 run:314650 lumisection:578 orbit:151418525 -- L1:350 L2:250 L3:200 L4:60 D1:90 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:37:54 fill:6574 run:314650 lumisection:588 orbit:153884225 -- L1:350 L2:250 L3:200 L4:60 D1:90 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:38:08 fill:6574 run:314650 lumisection:588 orbit:154043043 -- L1:350 L2:250 L3:200 L4:80 D1:100 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:41:49 fill:6574 run:314650 lumisection:598 orbit:156531499 -- L1:350 L2:250 L3:200 L4:80 D1:100 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:42:08 fill:6574 run:314650 lumisection:598 orbit:156743742 -- L1:350 L2:250 L3:200 L4:100 D1:150 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:46:04 fill:6574 run:314650 lumisection:609 orbit:159400350 -- L1:350 L2:250 L3:200 L4:100 D1:150 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:46:23 fill:6574 run:314650 lumisection:609 orbit:159585302 -- L1:350 L2:250 L3:200 L4:150 D1:200 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:49:59 fill:6574 run:314650 lumisection:619 orbit:162013799 -- L1:350 L2:250 L3:200 L4:150 D1:200 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:50:15 fill:6574 run:314650 lumisection:619 orbit:162225719 -- L1:350 L2:250 L3:200 L4:200 D1:250 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:53:51 fill:6574 run:314650 lumisection:629 orbit:164645494 -- L1:350 L2:250 L3:200 L4:200 D1:250 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:54:02 fill:6574 run:314650 lumisection:629 orbit:164779000 -- L1:350 L2:250 L3:200 L4:250 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 00:57:45 fill:6574 run:314650 lumisection:639 orbit:167279487 -- L1:350 L2:250 L3:200 L4:250 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 00:58:06 fill:6574 run:314650 lumisection:640 orbit:167492317 -- L1:350 L2:250 L3:200 L4:350 D1:400 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 01:02:00 fill:6574 run:314650 lumisection:650 orbit:170146283 -- L1:350 L2:250 L3:200 L4:350 D1:400 D2:300 D3:300 -- stop
+
+reference point
+timestamp(UTC):2018-04-19 01:02:30 fill:6574 run:314650 lumisection:651 orbit:170490017 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 01:06:16 fill:6574 run:314650 lumisection:661 orbit:173031549 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+additional L1 points
+timestamp(UTC):2018-04-19 03:11:07 fill:6574 run:314663 lumisection:4 orbit:911898 -- L1:20 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 03:14:50 fill:6574 run:314663 lumisection:14 orbit:3421960 -- L1:20 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:15:12 fill:6574 run:314663 lumisection:14 orbit:3661667 -- L1:60 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 03:19:07 fill:6574 run:314663 lumisection:25 orbit:6308404 -- L1:60 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:19:24 fill:6574 run:314663 lumisection:25 orbit:6498162 -- L1:100 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 03:23:00 fill:6574 run:314663 lumisection:35 orbit:8924156 -- L1:100 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:23:16 fill:6574 run:314663 lumisection:35 orbit:9109692 -- L1:140 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 03:26:53 fill:6574 run:314663 lumisection:45 orbit:11550884 -- L1:140 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:27:10 fill:6574 run:314663 lumisection:45 orbit:11738499 -- L1:180 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 03:30:46 fill:6574 run:314663 lumisection:55 orbit:14167802 -- L1:180 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+additional L2/D3 points
+timestamp(UTC):2018-04-19 03:31:19 fill:6574 run:314663 lumisection:56 orbit:14541227 -- L1:350 L2:125 L3:200 L4:200 D1:300 D2:300 D3:125 -- start
+timestamp(UTC):2018-04-19 03:35:03 fill:6574 run:314663 lumisection:66 orbit:17055893 -- L1:350 L2:125 L3:200 L4:200 D1:300 D2:300 D3:125 -- stop
+timestamp(UTC):2018-04-19 03:35:19 fill:6574 run:314663 lumisection:66 orbit:17244195 -- L1:350 L2:175 L3:200 L4:200 D1:300 D2:300 D3:175 -- start
+timestamp(UTC):2018-04-19 03:38:55 fill:6574 run:314663 lumisection:76 orbit:19668685 -- L1:350 L2:175 L3:200 L4:200 D1:300 D2:300 D3:175 -- stop
+timestamp(UTC):2018-04-19 03:39:12 fill:6574 run:314663 lumisection:76 orbit:19856002 -- L1:350 L2:225 L3:200 L4:200 D1:300 D2:300 D3:225 -- start
+timestamp(UTC):2018-04-19 03:42:48 fill:6574 run:314663 lumisection:86 orbit:22294753 -- L1:350 L2:225 L3:200 L4:200 D1:300 D2:300 D3:225 -- stop
+timestamp(UTC):2018-04-19 03:43:14 fill:6574 run:314663 lumisection:87 orbit:22585205 -- L1:350 L2:350 L3:200 L4:200 D1:300 D2:300 D3:350 -- start
+timestamp(UTC):2018-04-19 03:47:05 fill:6574 run:314663 lumisection:97 orbit:25181837 -- L1:350 L2:350 L3:200 L4:200 D1:300 D2:300 D3:350 -- stop
+
+additional L3/D2 points
+timestamp(UTC):2018-04-19 03:47:44 fill:6574 run:314663 lumisection:98 orbit:25614942 -- L1:350 L2:250 L3:125 L4:200 D1:300 D2:125 D3:300 -- start
+timestamp(UTC):2018-04-19 03:51:22 fill:6574 run:314663 lumisection:108 orbit:28068392 -- L1:350 L2:250 L3:125 L4:200 D1:300 D2:125 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:51:39 fill:6574 run:314663 lumisection:108 orbit:28261245 -- L1:350 L2:250 L3:175 L4:200 D1:300 D2:175 D3:300 -- start
+timestamp(UTC):2018-04-19 03:55:15 fill:6574 run:314663 lumisection:118 orbit:30691838 -- L1:350 L2:250 L3:175 L4:200 D1:300 D2:175 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:55:30 fill:6574 run:314663 lumisection:118 orbit:30825898 -- L1:350 L2:250 L3:225 L4:200 D1:300 D2:225 D3:300 -- start
+timestamp(UTC):2018-04-19 03:59:08 fill:6574 run:314663 lumisection:128 orbit:33304291 -- L1:350 L2:250 L3:225 L4:200 D1:300 D2:225 D3:300 -- stop
+timestamp(UTC):2018-04-19 03:59:31 fill:6574 run:314663 lumisection:129 orbit:33569057 -- L1:350 L2:250 L3:350 L4:200 D1:300 D2:350 D3:300 -- start
+timestamp(UTC):2018-04-19 04:03:25 fill:6574 run:314663 lumisection:139 orbit:36202926 -- L1:350 L2:250 L3:350 L4:200 D1:300 D2:350 D3:300 -- stop
+
+additional L4/D1 points
+timestamp(UTC):2018-04-19 04:04:04 fill:6574 run:314663 lumisection:140 orbit:36637269 -- L1:350 L2:250 L3:200 L4:125 D1:125 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:07:42 fill:6574 run:314663 lumisection:150 orbit:39091295 -- L1:350 L2:250 L3:200 L4:125 D1:125 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:08:01 fill:6574 run:314663 lumisection:150 orbit:39304209 -- L1:350 L2:250 L3:200 L4:175 D1:175 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:11:58 fill:6574 run:314663 lumisection:161 orbit:41964093 -- L1:350 L2:250 L3:200 L4:175 D1:175 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:12:16 fill:6574 run:314663 lumisection:161 orbit:42177100 -- L1:350 L2:250 L3:200 L4:300 D1:225 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:15:52 fill:6574 run:314663 lumisection:171 orbit:44594783 -- L1:350 L2:250 L3:200 L4:300 D1:225 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:16:14 fill:6574 run:314663 lumisection:172 orbit:44840392 -- L1:350 L2:250 L3:200 L4:400 D1:350 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:20:06 fill:6574 run:314663 lumisection:182 orbit:47458916 -- L1:350 L2:250 L3:200 L4:400 D1:350 D2:300 D3:300 -- stop
+
+reference point
+timestamp(UTC):2018-04-19 04:20:40 fill:6574 run:314663 lumisection:183 orbit:47808111 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:24:24 fill:6574 run:314663 lumisection:193 orbit:50361782 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+even more L1 ppints
+timestamp(UTC):2018-04-19 04:27:11 fill:6574 run:314663 lumisection:200 orbit:52232541 -- L1:220 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:31:01 fill:6574 run:314663 lumisection:210 orbit:54814596 -- L1:220 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:31:19 fill:6574 run:314663 lumisection:210 orbit:55027775 -- L1:260 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:34:53 fill:6574 run:314663 lumisection:220 orbit:57434463 -- L1:260 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:35:10 fill:6574 run:314663 lumisection:220 orbit:57621826 -- L1:300 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:38:45 fill:6574 run:314663 lumisection:230 orbit:60041253 -- L1:300 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:39:06 fill:6574 run:314663 lumisection:230 orbit:60282248 -- L1:375 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:43:02 fill:6574 run:314663 lumisection:241 orbit:62926161 -- L1:375 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:43:06 fill:6574 run:314663 lumisection:241 orbit:62979440 -- L1:425 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:46:58 fill:6574 run:314663 lumisection:251 orbit:65587041 -- L1:425 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:47:01 fill:6574 run:314663 lumisection:251 orbit:65614586 -- L1:475 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:50:49 fill:6574 run:314663 lumisection:261 orbit:68183155 -- L1:475 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:50:54 fill:6574 run:314663 lumisection:261 orbit:68236952 -- L1:525 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:54:42 fill:6574 run:314663 lumisection:271 orbit:70799702 -- L1:525 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 04:54:46 fill:6574 run:314663 lumisection:271 orbit:70853442 -- L1:575 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 04:58:36 fill:6574 run:314663 lumisection:281 orbit:73430481 -- L1:575 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+even more L4 points
+timestamp(UTC):2018-04-19 04:59:15 fill:6574 run:314663 lumisection:282 orbit:73868092 -- L1:350 L2:250 L3:200 L4:70 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:02:51 fill:6574 run:314663 lumisection:292 orbit:76298442 -- L1:350 L2:250 L3:200 L4:70 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:03:07 fill:6574 run:314663 lumisection:292 orbit:76458346 -- L1:350 L2:250 L3:200 L4:90 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:06:44 fill:6574 run:314663 lumisection:302 orbit:78926316 -- L1:350 L2:250 L3:200 L4:90 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:07:08 fill:6574 run:314663 lumisection:303 orbit:79194684 -- L1:350 L2:250 L3:200 L4:225 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:11:00 fill:6574 run:314663 lumisection:313 orbit:81795818 -- L1:350 L2:250 L3:200 L4:225 D1:300 D2:300 D3:300 -- stop
+
+reference point
+timestamp(UTC):2018-04-19 05:11:19 fill:6574 run:314663 lumisection:313 orbit:82008921 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:14:54 fill:6574 run:314663 lumisection:323 orbit:84425471 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
+repeated L1 scan (for systematic checks)
+timestamp(UTC):2018-04-19 05:15:39 fill:6574 run:314663 lumisection:324 orbit:84933996 -- L1:40 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:19:33 fill:6574 run:314663 lumisection:335 orbit:87571265 -- L1:40 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:19:48 fill:6574 run:314663 lumisection:335 orbit:87736560 -- L1:80 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:23:27 fill:6574 run:314663 lumisection:345 orbit:90196392 -- L1:80 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:23:44 fill:6574 run:314663 lumisection:345 orbit:90386964 -- L1:120 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:27:20 fill:6574 run:314663 lumisection:355 orbit:92817972 -- L1:120 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:27:40 fill:6574 run:314663 lumisection:355 orbit:93040885 -- L1:160 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:31:35 fill:6574 run:314663 lumisection:366 orbit:95688649 -- L1:160 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:31:52 fill:6574 run:314663 lumisection:366 orbit:95878460 -- L1:200 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:35:30 fill:6574 run:314663 lumisection:376 orbit:98335574 -- L1:200 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:35:45 fill:6574 run:314663 lumisection:376 orbit:98499528 -- L1:240 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:39:21 fill:6574 run:314663 lumisection:386 orbit:100934824 -- L1:240 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:39:39 fill:6574 run:314663 lumisection:386 orbit:101125231 -- L1:280 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:43:16 fill:6574 run:314663 lumisection:396 orbit:103570122 -- L1:280 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:43:35 fill:6574 run:314663 lumisection:396 orbit:103785904 -- L1:320 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:47:31 fill:6574 run:314663 lumisection:407 orbit:106436291 -- L1:320 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:47:46 fill:6574 run:314663 lumisection:407 orbit:106600912 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 05:51:25 fill:6574 run:314663 lumisection:417 orbit:109065659 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 05:51:42 fill:6574 run:314663 lumisection:417 orbit:109254773 -- L1:400 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:03:28 fill:6574 run:314663 lumisection:448 orbit:117202844 -- L1:400 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 06:03:33 fill:6574 run:314663 lumisection:448 orbit:117256244 -- L1:450 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:07:20 fill:6574 run:314663 lumisection:458 orbit:119806509 -- L1:450 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 06:07:25 fill:6574 run:314663 lumisection:458 orbit:119860858 -- L1:500 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:11:13 fill:6574 run:314663 lumisection:468 orbit:122429480 -- L1:500 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 06:11:18 fill:6574 run:314663 lumisection:468 orbit:122485076 -- L1:550 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:15:06 fill:6574 run:314663 lumisection:478 orbit:125054311 -- L1:550 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 06:15:11 fill:6574 run:314663 lumisection:478 orbit:125108049 -- L1:600 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:19:00 fill:6574 run:314663 lumisection:488 orbit:127675201 -- L1:600 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+timestamp(UTC):2018-04-19 06:24:51 fill:6574 run:314663 lumisection:503 orbit:131623833 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- start
+timestamp(UTC):2018-04-19 06:25:12 fill:6574 run:314663 lumisection:504 orbit:131869156 -- L1:350 L2:250 L3:200 L4:200 D1:300 D2:300 D3:300 -- stop
+
