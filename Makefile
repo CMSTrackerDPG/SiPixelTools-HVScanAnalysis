@@ -23,17 +23,7 @@ PROGRAMS      += $(P1PHM)
 
 all:            $(PROGRAMS)
 
-$(SHM):       $(SHMO)
-		$(LD) $(LDFLAGS) $^ $(LIBS) $(OutPutOpt)$@
-		$(MT_EXE)
-		@echo "$@ done"
-
 $(P1SHM):     $(P1SHMO)
-		$(LD) $(LDFLAGS) $^ $(LIBS) $(OutPutOpt)$@
-		$(MT_EXE)
-		@echo "$@ done"
-
-$(PHM):       $(PHMO)
 		$(LD) $(LDFLAGS) $^ $(LIBS) $(OutPutOpt)$@
 		$(MT_EXE)
 		@echo "$@ done"
