@@ -1,5 +1,5 @@
 #This program gets the necessery info for HV scan points from the automatic elog outputs and saves it in c++ format
-#please change the original input txt so that 1) grep timestemp 2) delete all commas
+#please change the original input txt so that 1) grep timestamp 2) delete all commas
 BEGIN {
 FS="[: ]"
 Run=0

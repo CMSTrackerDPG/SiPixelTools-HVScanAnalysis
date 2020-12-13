@@ -23,7 +23,7 @@ Phase1ScanHistoMaker -o PHM_out/output.root /foo/bar/input*.root
 Need to implement HV data in PHM<br>
 1. download elog output (e.g.: http://cmsonline.cern.ch/cms-elog/1041847)
 2. format txt<br>
-  a) ```cat filename.txt grep timestemp >newname.txt```<br>
+  a) ```cat filename.txt grep timestamp >newname.txt```<br>
   b) delete all commas (search & replace)<br>
 3. AWK<br>
    a) command.awk -> choose desired Layer/disk: whichDet=1 #Layers [1..4], Disks [5..7]<br>
